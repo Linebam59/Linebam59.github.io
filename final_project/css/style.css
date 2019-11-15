@@ -38,3 +38,7 @@ hr {
   height:1px;
   background: #fff;
 }
+
+.centered {
+  text-align: center;
+}
